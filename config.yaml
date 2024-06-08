@@ -1,0 +1,11 @@
+product_code: 'AGILE-18-02-21'
+tariff_code: 'E-1R-AGILE-18-02-21-J'
+agile_api_key: ''
+timezone: 'Europe/London'
+influx_host: ''
+influx_port: 8086
+influx_username: ''
+influx_password: ''
+influx_database: 'homeassistant'
+first_agile_date: '2024-05-28T00:00:00Z'
+meter_id: 'octopus_energy_electricity__current_consumption'
